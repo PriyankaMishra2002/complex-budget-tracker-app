@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@material-ui/icons": "^4.11.3",
+    "react": "^16.14.0",
+    "react-dom": "^16.12.0"
+  }
+}
