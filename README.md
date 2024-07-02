@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/complex-expense-budget-tracker.git
+git clone https://github.com/PriyankaMishra2002/complex-expense-budget-tracker.git
 cd complex-expense-budget-tracker
 Install dependencies:
 
@@ -72,8 +72,8 @@ Contact
 For any questions or feedback, please contact:
 
 Priyanka Mishra
-Email: priyanka.mishra@example.com
-GitHub: yourusername
+Email: pm9555606983@gmail.com
+GitHub: PriyankaMishra2002
 Thank you for using the Complex Expense Budget Tracker App!
 We hope it helps you manage your finances effectively.
 
