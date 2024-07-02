@@ -1,5 +1,7 @@
 Introduction
-The Complex Expense Budget Tracker App is a web application developed to provide users with a simple yet powerful tool for tracking their finances. Users can input expenses and savings, with the app calculating the total amount. The app also integrates speech recognition, allowing users to input data via voice commands for a more seamless experience.
+
+The Complex Expense Budget Tracker App is a web application developed to provide users with a simple yet powerful tool for tracking their finances. 
+Users can input expenses and savings, with the app calculating the total amount. The app also integrates speech recognition, allowing users to input data via voice commands for a more seamless experience.
 
 Features
 Expense and Savings Management: Users can input both expenses (negative numbers) and savings (positive numbers).
