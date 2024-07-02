@@ -20,7 +20,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/PriyankaMishra2002/complex-expense-budget-tracker.git
+git clone https://github.com/PriyankaMishra2002/complex-budget-tracker.git
 cd complex-expense-budget-tracker
 Install dependencies:
 
